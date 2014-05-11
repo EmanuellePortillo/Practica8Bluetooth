@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Chat Bluetooth</string>
+
+    <string name="title_activity_device_list">Lista de dispositivos</string>
+
+    <string name="action_settings">l</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Enviar</string>
+    <string name="not_connected">No estas conectado a ningún dispositivo</string>
+    <string name="bt_not_enabled_leaving">Bluetooth no estaba disponible. Saliendo del Chat Bluetooth.</string>
+    <string name="title_connecting">Conectando...</string>
+    <string name="title_connected_to">Conectado a <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">No conectado</string>
+    <string name="not_support">Bluetooth no disponible</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Escaneando dispositivos...</string>
+    <string name="select_device">Selecciona un dispositivo para conectarse</string>
+    <string name="none_paired">No has tenido dispositivos emparejados</string>
+    <string name="none_found">No se encontraron dispositivos</string>
+    <string name="title_paired_devices">Dispositivos emparejados</string>
+    <string name="title_other_devices">Otros dispositivos disponibles</string>
+    <string name="button_scan">Escanear dispositivos</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Conectar a un dispositivo - Seguro</string>
+    <string name="insecure_connect">Conectar a un dispositivo - Inseguro</string>
+    <string name="discoverable">Hacer no descubrible</string>
+
+</resources>
